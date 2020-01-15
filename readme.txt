@@ -3,3 +3,4 @@ git is free software
 modify
 test
 dev modify
+creating a new branch is quick and simple
