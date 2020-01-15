@@ -1,3 +1,3 @@
-git is a version control system
+igit is a version control system
 git is free software
 modify
